@@ -31,7 +31,7 @@ class CensusTestCase(BaseTestCase):
     def test_list_voting(self):
         response = self.client.get('/census/?voting_id={}'.format(1), format='json')
         self.assertEqual(response.status_code, 401)
-
+        self.assertEqual(response.status_code,401)
         self.login(user='noadmin')
         response = self.client.get('/census/?voting_id={}'.format(1), format='json')
         self.assertEqual(response.status_code, 403)

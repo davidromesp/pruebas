@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1d15f86-c24b-40f5-bf4a-351fb3f0aa6d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c1d15f86-c24b-40f5-bf4a-351fb3f0aa6d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Django tests.Test: voting.tests.VotingTestCase">
+  <component name="RunManager" selected="Django server.decide">
     <configuration name="Test: base.tests" type="DjangoTestsConfigurationType" temporary="true">
       <module name="decide" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,7 +240,7 @@
       <option name="presentableId" value="Default" />
       <updated>1547310222658</updated>
       <workItem from="1547310224638" duration="1115000" />
-      <workItem from="1547316344850" duration="2799000" />
+      <workItem from="1547316344850" duration="2821000" />
     </task>
     <servers />
   </component>
@@ -261,18 +259,17 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3914000" />
+    <option name="totallyTimeSpent" value="3936000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3797054" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42062193" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
